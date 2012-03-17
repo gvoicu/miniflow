@@ -11,4 +11,4 @@
 # de Ruby
 require File.expand_path("../miniflow", __FILE__)
 
-run Sinatra::Application
+run Miniflow
