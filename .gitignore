@@ -1,4 +1,7 @@
+# Fisiere si foldere specifice bundler
 .bundle
-.rvmrc
 bin
 vendor
+
+# Eu folosesc rbenv :-)
+.rbenv-version
